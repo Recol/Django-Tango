@@ -3,6 +3,9 @@ from django.db import models
 
 class Category(models.Model):
     name = models.CharField(max_length=128, unique=True)
+    title = models.CharField(max_length=128)
+    url = models.URLField()
+    views = models.IntegerField(default=0)
 
 
 class Meta:
@@ -15,11 +18,9 @@ def __str__(self):
 
 class Page(models.Model):
     category = models.ForeignKey(Category, on_delete=models.CASCADE)
-
-
-title = models.CharField(max_length=128)
-url = models.URLField()
-views = models.IntegerField(default=0)
+    title = models.CharField(max_length=128)
+    url = models.URLField()
+    views = models.IntegerField(default=0)
 
 
 def __str__(self):
