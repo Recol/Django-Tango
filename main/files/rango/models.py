@@ -1,6 +1,8 @@
 from django.db import models
 from django.template.defaultfilters import slugify
-#research slugify fully later on
+
+
+# research slugify fully later on
 
 
 class Category(models.Model):

@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/main/files/populate_rango.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/files/populate_rango.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/files/rango/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/files/rango/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/files/rango/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/files/rango/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/files/rango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/files/rango/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Django-3.2.3.dist-info/AUTHORS" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Django-3.2.3.dist-info/INSTALLER" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Django-3.2.3.dist-info/LICENSE" beforeDir="false" />
@@ -5082,7 +5083,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621721881837</updated>
-      <workItem from="1621721882991" duration="9408000" />
+      <workItem from="1621721882991" duration="9559000" />
     </task>
     <servers />
   </component>
