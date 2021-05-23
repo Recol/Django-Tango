@@ -4,12 +4,23 @@
     <list default="true" id="e23186d1-9309-4626-9151-605dd04d391e" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/New Text Document.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/files/rango/migrations/0001_initial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/files/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/main/files/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/files/rango/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/files/rango/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/files/rango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/files/rango/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621721881837</updated>
-      <workItem from="1621721882991" duration="6364000" />
+      <workItem from="1621721882991" duration="6714000" />
     </task>
     <servers />
   </component>
